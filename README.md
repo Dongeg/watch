@@ -1,6 +1,6 @@
 ```js
 //index.js
- 
+const watch = require("../../utils/watch.js");
 Page({
     data: {
         my:{
